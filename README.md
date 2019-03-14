@@ -1,2 +1,2 @@
 # object-merge
-Recursively merge objects without overwriting overlapping object keys
+Merge JavaScript objects without overwriting overlapping object keys
